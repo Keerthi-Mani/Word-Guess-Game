@@ -1,8 +1,25 @@
 body {
-  background-image: url("../images/abstract-night-world-map.jpg");
+  background-image: url("../images/world-map-of-cities-at-night-lg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  color: white;
+  display: flex;
 }
 
 h1,
 p {
   color: white;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+p {
+  font-size: 25px;
+}
+.container {
+  text-align: center;
+  margin: auto;
 }
