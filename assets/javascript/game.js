@@ -78,7 +78,8 @@ $(document).ready(function() {
     // Update the Display
     updateDisplay();
   }
-  // Check in keypressed is between A-Z or a-z
+
+  //function-that-returns-true-if-a-letter is between A-Z or a-z
   function isAlpha(ch) {
     return /^[A-Z]$/i.test(ch);
   }
