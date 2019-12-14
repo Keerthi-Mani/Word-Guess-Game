@@ -13,6 +13,7 @@ Test your guessing abilities! The User has (lucky number) 10 tries to correctly 
 5. When the User incorrectly guesses the letter, the 'Number of Guesses' decreases by 1.
 6. When the User runs out of guesses, the User losses by 1 point.
 7. The game restarts once the User wins or loses.
+8. Live link : [Click me !!](http://127.0.0.1:5500/index.html)
 
 ## Boiler Plate
 
